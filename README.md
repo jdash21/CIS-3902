@@ -1,6 +1,6 @@
 # Data Mining Portfolio
 
-Welcome to my data mining portfolio! This repository contains various projects I've worked on related to data mining and analysis during my time at <a href="http://www.catawba.edu">Catawba College</a>. Feel free to explore and provide feedback.
+Welcome to my data mining portfolio! My name is Jordan Dash and this repository contains various projects I've worked on related to data mining and analysis during my time at <a href="http://www.catawba.edu">Catawba College</a>. Feel free to explore and provide feedback.
 
 ## Projects
 
