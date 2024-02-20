@@ -7,7 +7,7 @@ Welcome to my data mining portfolio! My name is Jordan Dash and this repository 
 ### Natural Language Processing with Python and the Classics
 - **Description:** This Jupyter Notebook mines two classic novels to determine the influence of characters (people) in the novels.
 - **Technologies:** Numpy, pandas, and matplotlib are used to mine and chart the results. 
-- **Repository Link:** [Link to GitHub repository](#)
+- **Repository Link:** [https://github.com/jdash21/CIS-3902/blob/main/Chapter_1_HW.ipynb](#)
 
 ### Project Name 2
 - **Description:** Brief description of the project, its goals, and the techniques used.
